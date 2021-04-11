@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "Extruder 1",
+    "name": "0.4mm Nozzle",
     "inherits": "fdmextruder",
     "metadata": {
         "machine": "anycubic_mega_x",
