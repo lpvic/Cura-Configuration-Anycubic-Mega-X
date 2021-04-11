@@ -13,7 +13,7 @@
         "preferred_quality_type": "normal",
         "machine_extruder_trains":
         {
-            "0": "anycubic_mega_x_extruder_04"
+            "0": "anycubic_mega_x_extruder_04",
             "1": "anycubic_mega_x_extruder_02"
         }
     },
